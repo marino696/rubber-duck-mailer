@@ -17,6 +17,6 @@ The form will collect user input, and then it will send an email to the specifie
 
 This section describes how to install the plugin and get it working.
 
-- Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+- Download the zip file from Github and upload the unzipped contents to the `/wp-content/plugins/` directory. A new folder with the plug-in name (rubber-duck-mailer) should be created containing all the files within it.
 - or -
 - Download the zip file from Github, and upload it directly to the WordPress admin -> plug-ins page.
