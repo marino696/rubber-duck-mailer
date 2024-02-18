@@ -7,12 +7,9 @@ Stable tag: 0.1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-When you install this WordPress plug-in, it will create a new page (in Pages) upon plug-in activation.
-The form will collect user input, and then it will send an email to the specified user email with a link to a downlodable PDF file containing the user input information.
-
 == Description ==
 
-When you install this WordPress plug-in, it will create a new page (in Pages) upon plug-in activation.
+After you install this WordPress plug-in, it will create a new page (in Pages) upon plug-in activation.
 The form will collect user input, and then it will send an email to the specified user email with a link to a downlodable PDF file containing the user input information.
 
 == Installation ==
